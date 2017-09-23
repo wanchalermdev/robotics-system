@@ -1,3 +1,4 @@
+// Wanchalerm Junsong
 int dir = 2;
 int pul = 3;
 void setup() {
